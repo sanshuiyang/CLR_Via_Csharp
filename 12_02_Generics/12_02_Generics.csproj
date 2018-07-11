@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DDA1F33E-B989-433A-8D49-24899B4FE888}</ProjectGuid>
+    <ProjectGuid>{E32A49AC-738E-4511-9D33-781398611E56}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CLR_Via_C</RootNamespace>
-    <AssemblyName>CLR_Via_C</AssemblyName>
+    <RootNamespace>_12_02_Generics</RootNamespace>
+    <AssemblyName>12_02_Generics</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CLR_Via_C
+namespace _11_01_Event
 {
     class Program
     {
