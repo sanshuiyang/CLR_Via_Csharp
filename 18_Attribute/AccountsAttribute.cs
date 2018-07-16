@@ -78,7 +78,7 @@ namespace _18_Attribute
             CanWriteCheck(new ChildAccount());
             CanWriteCheck(new AdultAccount());
 
-            CanWriteCheck(new Program);
+            CanWriteCheck(new Program());
         }
 
         private static void CanWriteCheck(Object obj)
