@@ -42,7 +42,7 @@ namespace _17_Delegate
         //定义委托来查询一个组件的状态
         private delegate String GetStatus();
 
-        public static void Main()
+        public static void Main_test()
         {
             //申明空委托链
             GetStatus getStatus = null;
