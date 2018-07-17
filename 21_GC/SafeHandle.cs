@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 using System.Runtime.ConstrainedExecution;
 
-namespace _20_GC
+namespace _21_GC
 {
     public abstract class SafeHandle:CriticalFinalizerObject,IDisposable
     {

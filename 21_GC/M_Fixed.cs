@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _20_GC
+namespace _21_GC
 {
     class M_Fixed
     {

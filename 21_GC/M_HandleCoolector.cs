@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _20_GC
+namespace _21_GC
 {
     public static class M_HandleCoolector
     {
