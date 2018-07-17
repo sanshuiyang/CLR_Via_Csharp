@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Attribute", "18_Attribut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Nullable", "19_Nullable\19_Nullable.csproj", "{FC5D48EA-4D3D-489B-A153-FB00238993B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_GC", "20_GC\20_GC.csproj", "{102AFF4C-31E3-43CE-84F6-3B11CA52D9E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_GC", "20_GC\21_GC.csproj", "{102AFF4C-31E3-43CE-84F6-3B11CA52D9E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
