@@ -12,7 +12,7 @@ namespace _23_Reflection
     public static class Host_Exe
     {
         //TODO:未完成，没达到目标
-        public static void Main()
+        public static void Main_test()
         {
             //查找宿主EXE文件所在目录
             String addInDir = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
