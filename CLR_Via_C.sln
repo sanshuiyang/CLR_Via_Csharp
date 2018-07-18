@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wintellect", "Wintellect\Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Serialization", "24_Serialization\24_Serialization.csproj", "{C3E340E5-EA0D-4533-8758-7329AFC1AD33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Thread", "26_Thread\26_Thread.csproj", "{47EE6DCA-FB5D-4FC2-9B3F-D97A4ACAC0CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C3E340E5-EA0D-4533-8758-7329AFC1AD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E340E5-EA0D-4533-8758-7329AFC1AD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E340E5-EA0D-4533-8758-7329AFC1AD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EE6DCA-FB5D-4FC2-9B3F-D97A4ACAC0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EE6DCA-FB5D-4FC2-9B3F-D97A4ACAC0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EE6DCA-FB5D-4FC2-9B3F-D97A4ACAC0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EE6DCA-FB5D-4FC2-9B3F-D97A4ACAC0CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
